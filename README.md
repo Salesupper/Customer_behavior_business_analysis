@@ -26,13 +26,8 @@ O conjunto de dados utilizado contém informações relacionadas ao comportament
 ### Linguagens e Tecnologias
 - **Python**
   - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
 - **SQL**
   - PostgreSQL
-  - MySQL
-  - SQL Server
 - **Power BI**
 - **Gamma** (apresentação PPT)
 - **Jupyter Notebook**
@@ -127,7 +122,6 @@ Abra o arquivo `.pbix` no Power BI Desktop.
  ┣ 📂 dashboard
  ┣ 📂 reports
  ┣ 📜 README.md
- ┗ 📜 requirements.txt
 ```
 
 ---
